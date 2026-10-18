@@ -10,7 +10,7 @@ A Windows desktop software hub built with Python and Tkinter.
 - Windows Package Manager (winget)
 - Internet access for downloads
 
-## Run from source
+## Run from source Or Install.exe (Reccomended)
 
 Open a terminal in the EasyInstall folder and run:
 
